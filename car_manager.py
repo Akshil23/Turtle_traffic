@@ -31,3 +31,5 @@ class CarManager(Turtle):
             random_y = random.randint(-240, 240)
             new_car.goto(300, random_y)
             self.all_cars.append(new_car)
+
+            Fuck you duffer
